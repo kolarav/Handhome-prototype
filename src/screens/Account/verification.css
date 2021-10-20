@@ -51,3 +51,7 @@
   height: 45px;
   width: 120px;
 }
+
+.verification-page > button:active {
+  transform: scale(0.92);
+}
